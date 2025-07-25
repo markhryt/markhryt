@@ -34,7 +34,7 @@ Routes internal support tickets to the best-suited engineer based on skills, his
 - Used lightweight NLP models to embed/score tickets, minimizing cost  
 - Designed a preprocessing pipeline for deduplication & intent classification  
 - Deployed as a monolith with REST endpoints  
-**Repo:** [🔧 markhryt/AIssistant]([https://github.com/markhryt/your-repo](https://github.com/markhryt/AIssistant))  
+**Repo:** [🔧 markhryt/AIssistant]([https://github.com/markhryt/AIssistant])  
 
 ### 3. SkyHigh — AI-Powered Frisbee for Rescue Missions  
 Worked on a team that designed and prototyped an aerodynamic frisbee robot to collect rescue data mid-flight in critical situations where drones fall short.  
