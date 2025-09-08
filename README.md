@@ -37,7 +37,7 @@ Worked on a team that designed and prototyped an aerodynamic frisbee robot to co
   <summary>More projects</summary>
 
 - **E‑commerce Platform (Full Stack):** Built product listings, checkout flow, and admin dashboard  
-- **Numera AI Accounting (Co-Founder):** Built a rule-based + ML hybrid system to categorize expenses and surface insights for small businesses
+- **Numera AI Accounting:** Built a rule-based system to categorize expenses and surface insights for small businesses
 - **Reddit Reader App (React + Reddit API):** Lightweight client to search and read Reddit threads
 </details>
 
