@@ -1,9 +1,8 @@
 # Hi, I'm Mark — Backend-Focused CS Student @ Columbia 👋
 
 I’m a Computer Science student at Columbia University who loves building scalable, reliable backends.  
-I’ve shipped real-world systems—from a Java/Spring Boot cloud storage backend to an AI-powered ticket routing tool—and I’m always looking for ways to apply AI pragmatically in production workflows.
 
-I care about **clean architecture**, **performance**, and **impact**. If a tool helps people do their jobs better or faster, I’m in.
+I care about **clean architecture**, **performance**, and **impact**.
 
 ---
 
@@ -23,7 +22,7 @@ I care about **clean architecture**, **performance**, and **impact**. If a tool 
 ## 🚀 Featured Projects
 
 ### 1. Cloud Storage Backend (Java, Spring Boot, MySQL, Docker)  
-A Dropbox-style backend with authentication, file upload/download, metadata tracking, and simulated distributed storage with replication for fault tolerance.  
+A Dropbox-style backend with authentication, file upload/download, metadata tracking, and simulated replication for fault tolerance.  
 **Repo:** [🔧 markhryt/Cloud-Storage-Backend](https://github.com/markhryt/Cloud-Storage-Backend)  
 
 ### 2. AI-Powered Ticket Routing System (IP)  
@@ -47,6 +46,4 @@ Worked on a team that designed and prototyped an aerodynamic frisbee robot to co
 
 - **Email:** [🔧mark@hrytchak.com](mailto:mark@hrytchak.com)  
 - **LinkedIn:** [🔧 linkedin.com/in/markhrytchak](https://linkedin.com/in/markhrytchak)  
-
-I’m always open to collaborating on backend/infra tooling or thoughtful AI integrations. Feel free to reach out!
 ---
