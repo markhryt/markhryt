@@ -31,15 +31,19 @@ Routes internal support tickets to the best-suited employee based on skills, his
 
 ### SkyHigh — AI-Powered Frisbee for Rescue Missions  
 Worked on a team that designed and prototyped an aerodynamic frisbee robot to collect rescue data mid-flight in critical situations where drones fall short.  
-**Repo:** [🚁 markhryt/Devfest](https://github.com/markhryt/Devfest)
+**Repo:** [🚁 markhryt/Devfest](https://github.com/markhryt/Devfest)  
 
-### Numera AI Accounting - Built a rule-based system to categorize expenses and surface insights for small businesses
-**Repo:** [🚁 markhryt/Numera](https://github.com/markhryt/numera)
-### E‑commerce Platform (Full Stack) - Built product listings, checkout flow, and admin dashboard  
-**Repo:** [🚁 markhryt/E-Commerce](https://github.com/markhryt/e-commerce)
-### Reddit Reader App (React + Reddit API) - Lightweight client to search and read Reddit threads
-**Repo:** [🚁 markhryt/redditForCoddecademy](https://github.com/markhryt/redditForCoddecademy)
+### Numera AI Accounting  
+Built a rule-based system to categorize expenses and surface insights for small businesses.  
+**Repo:** [🚀 markhryt/Numera](https://github.com/markhryt/numera)  
 
+### E-commerce Platform (Full Stack)  
+Developed product listings, checkout flow, and an admin dashboard.  
+**Repo:** [🛒 markhryt/E-Commerce](https://github.com/markhryt/e-commerce)  
+
+### Reddit Reader App (React + Reddit API)  
+Lightweight client to search and read Reddit threads.  
+**Repo:** [📖 markhryt/redditForCoddecademy](https://github.com/markhryt/redditForCoddecademy)  
 
 ---
 ## 📫 Contact / Let’s Connect
